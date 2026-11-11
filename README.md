@@ -1,6 +1,6 @@
 # Gikomba Market Stall Analysis
 
-**Author:** YOUR FULL NAME | **Cohort:** YOUR COHORT
+**Author:** EUNICE LIVINGPROOF | **Cohort:** 1 MILDEVS
 
 ## Problem
 
